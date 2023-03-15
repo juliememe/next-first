@@ -1,0 +1,31 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
+h1 {
+    border: 1px solid white;
+    margin: 20px;
+    padding: 20px;
+}
+
+.user {
+    margin-left: 100px;
+    padding: 20px;
+    font-size: 30px;
+}
+
+.user a {
+    border: 1px solid dodgerblue;
+    padding: 10px;
+    color: dodgerblue;
+    text-decoration: none;
+}
+
+.user a:hover {
+    background-color: dodgerblue;
+    color: white;
+}
